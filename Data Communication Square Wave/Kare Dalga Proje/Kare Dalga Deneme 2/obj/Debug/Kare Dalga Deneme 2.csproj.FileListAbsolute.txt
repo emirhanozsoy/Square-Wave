@@ -1,0 +1,9 @@
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\bin\Debug\Kare Dalga Deneme 2.exe.config
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\bin\Debug\Kare Dalga Deneme 2.exe
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\bin\Debug\Kare Dalga Deneme 2.pdb
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare Dalga Deneme 2.csprojResolveAssemblyReference.cache
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare_Dalga_Deneme_2.Form1.resources
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare_Dalga_Deneme_2.Properties.Resources.resources
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare Dalga Deneme 2.csproj.GenerateResource.Cache
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare Dalga Deneme 2.exe
+C:\Users\Emirhan\Documents\Visual Studio 2013\Projects\Kare Dalga Deneme 2\Kare Dalga Deneme 2\obj\Debug\Kare Dalga Deneme 2.pdb
